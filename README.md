@@ -56,4 +56,4 @@ discount-calculator/
 └── README.md
 ```
 
-*Part of my Python learning journey 🐍 — practising conditional statements, logical operators, and input validation*
+*Part of my Python learning journey 🐍 — practicing conditional statements, logical operators, and input validation*
